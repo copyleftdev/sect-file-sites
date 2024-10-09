@@ -1,7 +1,8 @@
 # Security.txt Domain Report
 
-This report contains a list of domains that have a valid `.well-known/security.txt` file.
-These domains have been verified to contain a `security.txt` file that includes a valid `Contact:` entry.
+This report provides a list of domains that have been verified to contain a valid .well-known/security.txt file. The listed domains have been evaluated and confirmed to include a Contact: entry, which provides a means to reach out in case of security concerns.
+
+Note: This report is for informational purposes only. It is not an invitation to hack these domains. Please respect the policies outlined in each security.txt file. Additionally, some of the domains may have a link to a bounty program, which details how to responsibly report vulnerabilities if discovered. Always follow responsible disclosure practices and be mindful of the site's security policy.
 
 ## Valid Domains:
 
